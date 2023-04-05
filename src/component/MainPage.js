@@ -22,7 +22,7 @@ const MainPage = () => {
           {" "}
           للطلب اونلاين
         </a>
-        <a href="https://wa.me/07727106456" className="item">
+        <a href="https://wa.me/+9647727106456" className="item">
           ارقام الشكاوى
         </a>
       </div>
