@@ -4,11 +4,27 @@ import "./MainPage.css";
 const MainPage = () => {
   return (
     <div className="m-top-container">
-      <h1>hello main paage</h1>
       <div className="m-midde-container">
-        <a className="item"> hello</a>
-        <a className="item"> hello</a>
-        <a className="item"> hello</a>
+        <a
+          href="https://www.facebook.com/durrafashion1/?mibextid=ZbWKwL"
+          className="item"
+        >
+          facebook
+        </a>
+        <a
+          href="https://instagram.com/durrafashion1?igshid=YmMyMTA2M2Y="
+          className="item"
+        >
+          {" "}
+          instagram
+        </a>
+        <a href="https://wa.me/+9647706669988" className="item">
+          {" "}
+          للطلب اونلاين
+        </a>
+        <a href="https://wa.me/07727106456" className="item">
+          ارقام الشكاوى
+        </a>
       </div>
     </div>
   );

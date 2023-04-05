@@ -1,4 +1,5 @@
 .m-midde-container{
+    margin-top: 5rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -7,9 +8,10 @@
 }
 
 .item{
+    
     border: 1px solid wheat;
     color: wheat;
-    border-radius: 10px;
+    border-radius: 20px;
     width: 19rem;
     padding: 0.5rem;
     text-decoration: none;
