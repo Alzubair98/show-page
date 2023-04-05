@@ -1,0 +1,16 @@
+.m-midde-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.item{
+    border: 1px solid red;
+    border-radius: 10px;
+    width: 19rem;
+    padding: 0.5rem;
+    text-decoration: none;
+
+}
