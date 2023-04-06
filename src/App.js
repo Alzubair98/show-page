@@ -1,5 +1,6 @@
 import "./App.css";
 import MainPage from "./component/MainPage";
+
 import Footer from "./component/footer";
 import AOS from "aos";
 import "aos/dist/aos.css";
