@@ -6,6 +6,7 @@ const MainPage = () => {
     <div className="m-top-container">
       <div className="m-midde-container">
         <a
+          target="_blank"
           data-aos="fade-up"
           href="https://www.facebook.com/durrafashion1/?mibextid=ZbWKwL"
           className="item"
@@ -13,6 +14,7 @@ const MainPage = () => {
           facebook
         </a>
         <a
+          target="_blank"
           data-aos="fade-up"
           href="https://instagram.com/durrafashion1?igshid=YmMyMTA2M2Y="
           className="item"
