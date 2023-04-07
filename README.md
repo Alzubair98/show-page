@@ -9,7 +9,7 @@
 
 # Live Demo
 
-[LINK DEMO](https://master--golden-moonbeam-e14baa.netlify.app/)
+[LINK DEMO](https://spontaneous-tanuki-170881.netlify.app)
 
 ## Built With :hammer_and_wrench:
 
