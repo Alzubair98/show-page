@@ -11,7 +11,7 @@ const MainPage = () => {
           href="https://www.facebook.com/durrafashion1/?mibextid=ZbWKwL"
           className="item"
         >
-          facebook
+          <span>facebook</span>
         </a>
         <a
           target="_blank"
@@ -20,7 +20,7 @@ const MainPage = () => {
           className="item"
         >
           {" "}
-          instagram
+          <span>instagram</span>
         </a>
         <a
           data-aos="fade-up"
@@ -28,14 +28,14 @@ const MainPage = () => {
           className="item"
         >
           {" "}
-          للطلب اونلاين
+          <span>للطلب اونلاين</span>
         </a>
         <a
           data-aos="fade-up"
           href="https://wa.me/+9647727106456"
           className="item"
         >
-          ارقام الشكاوى
+          <span>ارقام الشكاوى</span>
         </a>
       </div>
     </div>
