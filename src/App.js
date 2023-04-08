@@ -11,6 +11,7 @@ AOS.init({
 function App() {
   return (
     <div className="App">
+      <img className="background-img" src="logo.png" />
       <MainPage />
       <Footer />
     </div>
