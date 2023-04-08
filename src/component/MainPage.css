@@ -1,5 +1,5 @@
 .m-midde-container{
-    margin-top: 12rem;
+    margin-top: 15rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -17,6 +17,6 @@
     color: #fff;
     font-weight: 600;
     font-size: 15px;
-    padding: 13px 60px;
+    padding: 11px 60px;
     text-decoration: none;
 }
